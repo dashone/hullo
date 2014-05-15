@@ -1,1 +1,3 @@
 Git is fun
+
+Added some git stuff
