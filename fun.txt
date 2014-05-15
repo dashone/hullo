@@ -1,1 +1,9 @@
 Git is fun
+
+Added some git stuff
+
+And Another.
+
+Squash this
+
+Damn I needed to add some other stuff.
