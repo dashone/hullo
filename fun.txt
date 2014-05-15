@@ -1,3 +1,5 @@
 Git is fun
 
 Added some git stuff
+
+Damn I needed to add some other stuff.
